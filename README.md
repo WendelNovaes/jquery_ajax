@@ -1,7 +1,11 @@
 # jquery_ajax
  Introdução ao JQuery e Ajax
 
-# Projeto Botcamp Full Stack Python Digital Inovation
+# AJAX + JQUERY
+
+Consulta de CEPS e Exibição de Endereços
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 Recursos Utilizados
 
@@ -12,8 +16,7 @@ http://viacep.com.br/
 HTML 5 
 AJAX
 
-Consulta de CEP
-Exibição de Endereço
+
 
 
 
